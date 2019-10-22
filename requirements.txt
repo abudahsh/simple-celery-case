@@ -12,7 +12,7 @@ jedi==0.12.1
 kombu==4.2.1
 pbr==4.1.0
 pep8-naming==0.7.0
-Pillow==5.2.0
+Pillow==6.2.0
 pytz==2018.5
 redis==2.10.6
 requests==2.19.1
