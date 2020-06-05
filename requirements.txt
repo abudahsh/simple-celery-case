@@ -4,7 +4,7 @@ brotlipy==0.7.0
 cached-property==1.4.3
 celery==4.2.1
 decorator==4.3.0
-Django==1.10
+Django==1.11.29
 eventlet==0.24.1
 gunicorn==19.9.0
 jdcal==1.4
